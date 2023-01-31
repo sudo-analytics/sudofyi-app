@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Colfax";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/ColfaxWebRegular.woff") format("woff");
+}
+@font-face {
+  font-family: "Colfax";
+  font-style: normal;
+  font-weight: 500;
+  src: url("fonts/ColfaxWebMedium.woff");
+}
+@font-face {
+  font-family: "Colfax";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/ColfaxWebBold.woff");
+}
+@font-face {
+  font-family: "PlexMono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/IBMPlexMono-Regular.woff");
+}
+@font-face {
+  font-family: "PlexMono";
+  font-style: normal;
+  font-weight: 500;
+  src: url("fonts/IBMPlexMono-Medium.woff");
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Colfax", sans-serif;
+  color: #f5f5fa;
+}
+
+body {
+  font-size: 1.4rem;
+  line-height: 1.6;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.parent-container {
+  width: 960px;
+  max-width: 960px;
+}
+
+h2 {
+  -webkit-text-stroke: 0.5px;
+  letter-spacing: 0.5px;
+}
