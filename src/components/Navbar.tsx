@@ -17,7 +17,7 @@ export default function Navbar() {
         </Link>
         <div className="external-links">
           <a
-            href="https://www.notion.so/charliecf/About-Sudoswap-analytics-66a74430c4744418a36d7383a9f1bc4f"
+            href="https://github.com/sudo-analytics/sudofyi-app/wiki#about"
             target="_blank"
           >
             <p>About</p>
