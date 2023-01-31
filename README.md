@@ -26,15 +26,8 @@ open http://localhost:3000
 
 ## Contributing
 
-#### Conventions & Styles
-
-Nothing fancy!
-
-For commit messages, generally we suggest following:
-
-- https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
-- https://gitmoji.dev/ (if you're feeling spicy!)
+Please read the [contribution guidelines](https://github.com/sudo-analytics/sudofyi-app/wiki#how-to-contribute) before starting work on a pull request.
 
 ## License
 
-MIT License
+[MIT License](https://github.com/sudo-analytics/sudofyi-app/blob/main/LICENSE.txt)
