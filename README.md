@@ -6,12 +6,16 @@
 [![MIT License](https://badgen.net/badge/license/MIT/blue)](https://github.com/sudo-analytics/sudofyi-app/blob/main/LICENSE.txt)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
+## About 
+
+[Project Wiki](https://github.com/sudo-analytics/sudofyi-app/wiki)
+
 _the_ analytics app for [sudoswap](https://sudoswap.xyz).
 
+## Getting Started
+Client app is built with react, and backend is built with python:
 - Client app repo can be found [here](https://github.com/sudo-analytics/sudofyi-app).
 - Backend repo can be found [here](https://github.com/sudo-analytics/sudofyi-backend).
-
-## Getting Started
 
 Install dependencies
 
